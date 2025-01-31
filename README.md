@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on: **Spring Boot projects & System Design**  
 🌱 I’m learning: **Operating Systems, DBMS, and Computer Networks**  
-💡 Interests: **Competitive Programming | Web Development**  
+💡 Interests: **Competitive Programming | Web Development** 
 
 ---
 
