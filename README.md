@@ -37,9 +37,6 @@
 
 ---
 
-### 🚀 **LeetCode Stats:**  
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ashik_j?ext=contest&theme=dark)](https://leetcode.com/ashik_j)
-
 ---
 
 ### 🚀 **Let's Connect & Collaborate!**  
