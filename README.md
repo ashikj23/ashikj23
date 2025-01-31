@@ -16,6 +16,11 @@
 
 ---
 
+## 🚀 **LeetCode Stats:**
+![LeetCode Stats](https://leetcard.jacoblin.cool/ashik_j?theme=dark&font=ABeeZee&ext=heatmap&border=1&radius=20)
+
+---
+
 ## 🛠️ **Tech Stack:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -33,6 +38,7 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashikj23&langs_count=6&layout=compact&theme=radical)  
 
 ---
+
 ---
 
 ### 🚀 **Let's Connect & Collaborate!**  
